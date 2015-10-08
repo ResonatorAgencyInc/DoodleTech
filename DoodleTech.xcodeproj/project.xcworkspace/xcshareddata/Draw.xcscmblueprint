@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "192749BA0AC23AEBA0C11100E7B5C3BF7A27CA94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C8E4B4A290DBB1D4519134B0B31E290EF6DE7179" : 0,
+    "192749BA0AC23AEBA0C11100E7B5C3BF7A27CA94" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B32BF623-E1AD-465F-AB76-16957ADFA327",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C8E4B4A290DBB1D4519134B0B31E290EF6DE7179" : "OESDrawingApp",
+    "192749BA0AC23AEBA0C11100E7B5C3BF7A27CA94" : "DoodleTech\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Draw",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Draw.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ResonatorAgencyInc\/DoodleTech.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "192749BA0AC23AEBA0C11100E7B5C3BF7A27CA94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/freshproduceserver.com\/git\/OESDrawingApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C8E4B4A290DBB1D4519134B0B31E290EF6DE7179"
+    }
+  ]
+}

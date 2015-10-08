@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -270,20 +270,20 @@
 		ABFFAB491BC336D400454CF7 /* fr-share_share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "fr-share_share.png"; path = "Icons/Buttons/fr-share_share.png"; sourceTree = "<group>"; };
 		D3792A50198F7443006AC98D /* QuadDrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuadDrawView.m; sourceTree = "<group>"; };
 		D3792A51198F7443006AC98D /* QuadDrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuadDrawView.h; sourceTree = "<group>"; };
-		D3CD81291989FB0D00EA4DDB /* Draw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Draw.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3CD81291989FB0D00EA4DDB /* DoodleTech.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoodleTech.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3CD812C1989FB0D00EA4DDB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D3CD812E1989FB0D00EA4DDB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		D3CD81301989FB0D00EA4DDB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		D3CD81341989FB0D00EA4DDB /* Draw-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Draw-Info.plist"; sourceTree = "<group>"; };
+		D3CD81341989FB0D00EA4DDB /* DoodleTech-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DoodleTech-Info.plist"; sourceTree = "<group>"; };
 		D3CD81361989FB0D00EA4DDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D3CD81381989FB0D00EA4DDB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D3CD813A1989FB0D00EA4DDB /* Draw-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Draw-Prefix.pch"; sourceTree = "<group>"; };
+		D3CD813A1989FB0D00EA4DDB /* DoodleTech-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DoodleTech-Prefix.pch"; sourceTree = "<group>"; };
 		D3CD813B1989FB0D00EA4DDB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D3CD813C1989FB0D00EA4DDB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D3CD813F1989FB0D00EA4DDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D3CD81441989FB0D00EA4DDB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D3CD814A1989FB0D00EA4DDB /* DrawTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3CD81531989FB0D00EA4DDB /* DrawTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DrawTests-Info.plist"; sourceTree = "<group>"; };
+		D3CD814A1989FB0D00EA4DDB /* DoodleTech.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DoodleTech.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3CD81531989FB0D00EA4DDB /* DoodleTechTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DoodleTechTests-Info.plist"; sourceTree = "<group>"; };
 		D3CD81551989FB0D00EA4DDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D3CD81571989FB0D00EA4DDB /* DrawTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawTests.m; sourceTree = "<group>"; };
 		D3CD81641989FDE700EA4DDB /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
@@ -553,8 +553,8 @@
 		D3CD812A1989FB0D00EA4DDB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D3CD81291989FB0D00EA4DDB /* Draw.app */,
-				D3CD814A1989FB0D00EA4DDB /* DrawTests.xctest */,
+				D3CD81291989FB0D00EA4DDB /* DoodleTech.app */,
+				D3CD814A1989FB0D00EA4DDB /* DoodleTech.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -595,10 +595,10 @@
 		D3CD81331989FB0D00EA4DDB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D3CD81341989FB0D00EA4DDB /* Draw-Info.plist */,
+				D3CD81341989FB0D00EA4DDB /* DoodleTech-Info.plist */,
 				D3CD81351989FB0D00EA4DDB /* InfoPlist.strings */,
 				D3CD81381989FB0D00EA4DDB /* main.m */,
-				D3CD813A1989FB0D00EA4DDB /* Draw-Prefix.pch */,
+				D3CD813A1989FB0D00EA4DDB /* DoodleTech-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -615,7 +615,7 @@
 		D3CD81521989FB0D00EA4DDB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D3CD81531989FB0D00EA4DDB /* DrawTests-Info.plist */,
+				D3CD81531989FB0D00EA4DDB /* DoodleTechTests-Info.plist */,
 				D3CD81541989FB0D00EA4DDB /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -624,9 +624,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D3CD81281989FB0D00EA4DDB /* Draw */ = {
+		D3CD81281989FB0D00EA4DDB /* DoodleTech */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D3CD815B1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "Draw" */;
+			buildConfigurationList = D3CD815B1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DoodleTech" */;
 			buildPhases = (
 				D3CD81251989FB0D00EA4DDB /* Sources */,
 				D3CD81261989FB0D00EA4DDB /* Frameworks */,
@@ -637,14 +637,14 @@
 			);
 			dependencies = (
 			);
-			name = Draw;
+			name = DoodleTech;
 			productName = Draw;
-			productReference = D3CD81291989FB0D00EA4DDB /* Draw.app */;
+			productReference = D3CD81291989FB0D00EA4DDB /* DoodleTech.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D3CD81491989FB0D00EA4DDB /* DrawTests */ = {
+		D3CD81491989FB0D00EA4DDB /* DoodleTechTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D3CD815E1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DrawTests" */;
+			buildConfigurationList = D3CD815E1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DoodleTechTests" */;
 			buildPhases = (
 				D3CD81461989FB0D00EA4DDB /* Sources */,
 				D3CD81471989FB0D00EA4DDB /* Frameworks */,
@@ -655,9 +655,9 @@
 			dependencies = (
 				D3CD81501989FB0D00EA4DDB /* PBXTargetDependency */,
 			);
-			name = DrawTests;
+			name = DoodleTechTests;
 			productName = DrawTests;
-			productReference = D3CD814A1989FB0D00EA4DDB /* DrawTests.xctest */;
+			productReference = D3CD814A1989FB0D00EA4DDB /* DoodleTech.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -677,8 +677,8 @@
 					};
 				};
 			};
-			buildConfigurationList = D3CD81241989FB0D00EA4DDB /* Build configuration list for PBXProject "Draw" */;
-			compatibilityVersion = "Xcode 3.2";
+			buildConfigurationList = D3CD81241989FB0D00EA4DDB /* Build configuration list for PBXProject "DoodleTech" */;
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -690,8 +690,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D3CD81281989FB0D00EA4DDB /* Draw */,
-				D3CD81491989FB0D00EA4DDB /* DrawTests */,
+				D3CD81281989FB0D00EA4DDB /* DoodleTech */,
+				D3CD81491989FB0D00EA4DDB /* DoodleTechTests */,
 			);
 		};
 /* End PBXProject section */
@@ -854,7 +854,7 @@
 /* Begin PBXTargetDependency section */
 		D3CD81501989FB0D00EA4DDB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D3CD81281989FB0D00EA4DDB /* Draw */;
+			target = D3CD81281989FB0D00EA4DDB /* DoodleTech */;
 			targetProxy = D3CD814F1989FB0D00EA4DDB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -968,16 +968,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
-				FRAMEWORK_SEARCH_PATHS = (
-					/Users/resonator/Desktop/Version5/,
-					"$(PROJECT_DIR)",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Draw/Draw-Prefix.pch";
-				INFOPLIST_FILE = "Draw/Draw-Info.plist";
+				GCC_PREFIX_HEADER = "Draw/DoodleTech-Prefix.pch";
+				INFOPLIST_FILE = "Draw/DoodleTech-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Resonator.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DoodleTech;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
@@ -993,16 +990,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
-				FRAMEWORK_SEARCH_PATHS = (
-					/Users/resonator/Desktop/Version5/,
-					"$(PROJECT_DIR)",
-				);
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Draw/Draw-Prefix.pch";
-				INFOPLIST_FILE = "Draw/Draw-Info.plist";
+				GCC_PREFIX_HEADER = "Draw/DoodleTech-Prefix.pch";
+				INFOPLIST_FILE = "Draw/DoodleTech-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Resonator.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DoodleTech;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
@@ -1015,14 +1009,14 @@
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Draw.app/Draw";
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Draw/Draw-Prefix.pch";
+				GCC_PREFIX_HEADER = "Draw/DoodleTech-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "DrawTests/DrawTests-Info.plist";
+				INFOPLIST_FILE = "DrawTests/DoodleTechTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.world-software.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DoodleTech;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1034,10 +1028,10 @@
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Draw.app/Draw";
 				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Draw/Draw-Prefix.pch";
-				INFOPLIST_FILE = "DrawTests/DrawTests-Info.plist";
+				GCC_PREFIX_HEADER = "Draw/DoodleTech-Prefix.pch";
+				INFOPLIST_FILE = "DrawTests/DoodleTechTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.world-software.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = DoodleTech;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -1046,7 +1040,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D3CD81241989FB0D00EA4DDB /* Build configuration list for PBXProject "Draw" */ = {
+		D3CD81241989FB0D00EA4DDB /* Build configuration list for PBXProject "DoodleTech" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D3CD81591989FB0D00EA4DDB /* Debug */,
@@ -1055,7 +1049,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D3CD815B1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "Draw" */ = {
+		D3CD815B1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DoodleTech" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D3CD815C1989FB0D00EA4DDB /* Debug */,
@@ -1064,7 +1058,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D3CD815E1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DrawTests" */ = {
+		D3CD815E1989FB0D00EA4DDB /* Build configuration list for PBXNativeTarget "DoodleTechTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D3CD815F1989FB0D00EA4DDB /* Debug */,

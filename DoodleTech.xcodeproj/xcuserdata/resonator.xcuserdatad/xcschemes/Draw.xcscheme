@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D3CD81281989FB0D00EA4DDB"
-               BuildableName = "Draw.app"
-               BlueprintName = "Draw"
-               ReferencedContainer = "container:Draw.xcodeproj">
+               BuildableName = "DoodleTech.app"
+               BlueprintName = "DoodleTech"
+               ReferencedContainer = "container:DoodleTech.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D3CD81491989FB0D00EA4DDB"
-               BuildableName = "DrawTests.xctest"
-               BlueprintName = "DrawTests"
-               ReferencedContainer = "container:Draw.xcodeproj">
+               BuildableName = "DoodleTech.xctest"
+               BlueprintName = "DoodleTechTests"
+               ReferencedContainer = "container:DoodleTech.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D3CD81491989FB0D00EA4DDB"
-               BuildableName = "DrawTests.xctest"
-               BlueprintName = "DrawTests"
-               ReferencedContainer = "container:Draw.xcodeproj">
+               BuildableName = "DoodleTech.xctest"
+               BlueprintName = "DoodleTechTests"
+               ReferencedContainer = "container:DoodleTech.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D3CD81281989FB0D00EA4DDB"
-            BuildableName = "Draw.app"
-            BlueprintName = "Draw"
-            ReferencedContainer = "container:Draw.xcodeproj">
+            BuildableName = "DoodleTech.app"
+            BlueprintName = "DoodleTech"
+            ReferencedContainer = "container:DoodleTech.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D3CD81281989FB0D00EA4DDB"
-            BuildableName = "Draw.app"
-            BlueprintName = "Draw"
-            ReferencedContainer = "container:Draw.xcodeproj">
+            BuildableName = "DoodleTech.app"
+            BlueprintName = "DoodleTech"
+            ReferencedContainer = "container:DoodleTech.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -106,9 +106,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D3CD81281989FB0D00EA4DDB"
-            BuildableName = "Draw.app"
-            BlueprintName = "Draw"
-            ReferencedContainer = "container:Draw.xcodeproj">
+            BuildableName = "DoodleTech.app"
+            BlueprintName = "DoodleTech"
+            ReferencedContainer = "container:DoodleTech.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

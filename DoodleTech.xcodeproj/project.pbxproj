@@ -342,24 +342,6 @@
 			name = Fonts;
 			sourceTree = "<group>";
 		};
-		39A8BBC31A981D5500948AB9 /* KeegansFiles */ = {
-			isa = PBXGroup;
-			children = (
-				39A8BBCA1A981FD500948AB9 /* Images */,
-				39A8BBBA1A98192400948AB9 /* WindowViewController.m */,
-				39A8BBBC1A98196400948AB9 /* WindowViewController.h */,
-				39A8BBC01A981CA000948AB9 /* SizeViewController.m */,
-				39A8BBC21A981CCC00948AB9 /* SizeViewController.h */,
-				39A8BBC71A981F8500948AB9 /* BackgroundTableViewController.m */,
-				39A8BBC91A981FAF00948AB9 /* BackgroundTableViewController.h */,
-				39A69DB71A9B068700198456 /* ShareViewController.h */,
-				39A69DB81A9B068700198456 /* ShareViewController.m */,
-				39FEF5671AACE79300488B1A /* TweetViewController.h */,
-				39FEF5681AACE79300488B1A /* TweetViewController.m */,
-			);
-			name = KeegansFiles;
-			sourceTree = "<group>";
-		};
 		39A8BBCA1A981FD500948AB9 /* Images */ = {
 			isa = PBXGroup;
 			children = (
@@ -579,8 +561,18 @@
 		D3CD81321989FB0D00EA4DDB /* Draw */ = {
 			isa = PBXGroup;
 			children = (
+				39A8BBCA1A981FD500948AB9 /* Images */,
+				39A8BBBA1A98192400948AB9 /* WindowViewController.m */,
+				39A8BBBC1A98196400948AB9 /* WindowViewController.h */,
+				39A8BBC01A981CA000948AB9 /* SizeViewController.m */,
+				39A8BBC21A981CCC00948AB9 /* SizeViewController.h */,
+				39A8BBC71A981F8500948AB9 /* BackgroundTableViewController.m */,
+				39A8BBC91A981FAF00948AB9 /* BackgroundTableViewController.h */,
+				39A69DB71A9B068700198456 /* ShareViewController.h */,
+				39A69DB81A9B068700198456 /* ShareViewController.m */,
+				39FEF5671AACE79300488B1A /* TweetViewController.h */,
+				39FEF5681AACE79300488B1A /* TweetViewController.m */,
 				39C3DDF21A997ABE002E0E9D /* RSColorPicker */,
-				39A8BBC31A981D5500948AB9 /* KeegansFiles */,
 				D3792A51198F7443006AC98D /* QuadDrawView.h */,
 				D3792A50198F7443006AC98D /* QuadDrawView.m */,
 				D3CD813B1989FB0D00EA4DDB /* AppDelegate.h */,

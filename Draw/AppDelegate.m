@@ -10,6 +10,7 @@
 #import <Fabric/Fabric.h>
 #import <Crashlytics/Crashlytics.h>
 #import <TwitterKit/TwitterKit.h>
+#import <DigitsKit/DigitsKit.h>
 
 
 @implementation AppDelegate
@@ -17,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
-    [Fabric with:@[[Twitter class], [Digits class], [Crashlytics class]]];
+    [Fabric with:@[[Digits class], [Twitter class], [Crashlytics class]]];
     return YES;
     
 }

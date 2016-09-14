@@ -3,9 +3,9 @@
     {
       "orientation" : "landscape",
       "idiom" : "ipad",
+      "filename" : "SplashPage.png",
       "extent" : "full-screen",
       "minimum-system-version" : "7.0",
-      "filename" : "SplashPage.png",
       "scale" : "1x"
     },
     {
